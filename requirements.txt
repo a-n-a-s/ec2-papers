@@ -1,0 +1,4 @@
+pinecone
+google-generativeai
+uvicorn[standard]
+fastapi
